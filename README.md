@@ -7,8 +7,8 @@
 
 
 
-# 💫 About Me:
-🔭 I’m currently working on Data Science, Machine Learning competations on Kaggle<br><br>🌱 I’m currently learning Machine Learning, Transformers and Mamba .<br><br>👯 I’m looking to collaborate on on Machine learning and deep learning projects<br><br>🤝 I’m looking for help with Multimodal Learning.<br><br>💬 Ask me about Machine learning ,Data Analysis, Visualization, Cleaning<br><br>📫 How to reach me zulqar445ali@gamil.com<br><br>⚡ Fun fact I am actually a bit of a footballer.
+#  About Me:
+ 👉 I’m currently participating in Data Science, Machine Learning competations on various paltforms<br><br>👉 I’m a freelance Machine Learning Engineer.<br><br>👉 I’m looking to collaborate on on Machine learning and deep learning Research work<br><br>👉 Ask me about Machine learning ,DataScience, Deep Learning, Artifical Intelligence<br><br>👉 How to reach me zulqar445ali@gamil.com<br><br> Fun fact I am actually a bit of a footballer.
 
 ---
 <h3 align="left">Connect with me:</h3>
