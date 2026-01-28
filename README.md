@@ -95,18 +95,9 @@ Fun Fact:       I’m a footballer at heart
 
 ---
 
-## 🧮 Contributions
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zulqarnainalipk&bg_color=ffffff&color=6f42c1&line=6f42c1&point=ff9900&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-##  Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zulqarnainalipk&theme=radical&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github.com/user-attachments/assets/bf81c268-b647-4ac1-8fe9-fdeb83f48f2b" width="880"><br>
+  <em> a compilation of what I ejoy working on / learning about</em>
 </p>
 
 ---
