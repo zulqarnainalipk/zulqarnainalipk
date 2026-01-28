@@ -102,7 +102,3 @@ Fun Fact:       I’m a footballer at heart
 
 ---
 
-<!-- Footer Wave Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=6f42c1" />
-</p>
